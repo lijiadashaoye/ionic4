@@ -16,7 +16,7 @@ ionic-pro其实很好，但不花钱买服务的话（$30/月），就别安装�
 选择github连接的是github项目，然后会显示出github项目列表，选择刚创建的项目<br>
 # 不安装 ionic-pro的
 开发app时，用不上ionic-pro，只有花钱买了服务，后期公司在管理、发版app时，才会体会到ionic-pro的好处<br>
-8.	下载Ionic DevApp软件，并用ionic-pro账户登陆app：https:\/\/ionicframework.com/docs/pro/devapp/#download-the-devapp<br>
+8.	下载Ionic DevApp软件，并用ionic-pro账户登陆app:https://ionicframework.com/docs/pro/devapp/#download-the-devapp<br>
 9.	启动PC端：ionic serve<br>
 10.	打开Ionic DevApp可以同步看到在PC端的更改，ionic默认使用8100端口，如果同时启动多个ionic项目，ionic会自动修改端口，而且在Ionic DevApp里也都能看到
 # 结合gitlab，上传新项目
