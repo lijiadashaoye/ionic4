@@ -14,7 +14,7 @@ ionic-pro其实很好，但不花钱买服务的话（$30/月），就别安装�
 如果在创建项目时，选择了安装ionic-pro，当cli运行时，会提示连接哪个代码管理账户（gitHub、ionic-pro）<br>
 选择ionic-pro连接的是已创建好的ionic-pro项目，会出现选择在ionic-pro网站新建项目还是连接在ionic-pro网站上已有的项目，但这个不花钱买服务，就没啥用，推荐个人使用github<br>
 选择github连接的是github项目，然后会显示出github项目列表，选择刚创建的项目<br>
-# 不安装 ionic-pro的
+## 不安装 ionic-pro的
 开发app时，用不上ionic-pro，只有花钱买了服务，后期公司在管理、发版app时，才会体会到ionic-pro的好处<br>
 8.	下载Ionic DevApp软件，并用ionic-pro账户登陆app:https://ionicframework.com/docs/pro/devapp/#download-the-devapp<br>
 9.	启动PC端：ionic serve<br>
