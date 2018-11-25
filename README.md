@@ -21,17 +21,17 @@ https://ionicframework.com/docs/pro/devapp/#download-the-devapp<br>
 10.	打开Ionic DevApp可以同步看到在PC端的更改，ionic默认使用8100端口，如果同时启动多个ionic项目，ionic会自动修改端口，而且在Ionic DevApp里也都能看到
 ### 结合gitLab，上传新项目
 本地和gitlab上都新创建ionic项目后，根据git的操作方法，执行代码管理即可<br>
-1：执行 git remote add origin git@gitlab.com:lijiadashaoye/withgitlab.git；将项目添加gitlab地址<br>
-2：执行 git commit -m "Initial commit" 和 git add README.md；添加初始提交说明<br>
-3：执行 git push -u origin master；将项目提交到gitlab；<br>
+1. 执行 git remote add origin git@gitlab.com:lijiadashaoye/withgitlab.git；将项目添加gitlab地址<br>
+2. 执行 git commit -m "Initial commit" 和 git add README.md；添加初始提交说明<br>
+3. 执行 git push -u origin master；将项目提交到gitlab；<br>
 ### clone项目
-1：git clone https://github.com/lijiadashaoye/ionic4.git
-2：打开项目，安装依赖包：yarn
-3：启动项目：ionic serve
+1. git clone https://github.com/lijiadashaoye/ionic4.git
+2. 打开项目，安装依赖包：yarn
+3. 启动项目：ionic serve
 ### 公司花钱买ionic-pro的
-1：创建项目时，选择安装ionic-pro<br>
-2：创建项目时，选择不安装ionic-pro，然后，执行：ionic link，可以在ionic-pro新建项目<br>
-3：执行 git commit -m "Your Awesome Changes"；添加在ionic-pro里的提交初始说明<br>
-4：执行 git push ionic master；将项目提交到master分支<br>
+1. 创建项目时，选择安装ionic-pro<br>
+2. 创建项目时，选择不安装ionic-pro，然后，执行：ionic link，可以在ionic-pro新建项目<br>
+3. 执行 git commit -m "Your Awesome Changes"；添加在ionic-pro里的提交初始说明<br>
+4. 执行 git push ionic master；将项目提交到master分支<br>
 后续的操作没做过，就不说了
 
