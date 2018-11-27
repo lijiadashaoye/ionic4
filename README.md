@@ -17,7 +17,7 @@ ionic-pro其实很好，但不花钱买服务的话（$30/月），就别安装�
 开发app时，用不上ionic-pro，只有花钱买了服务，后期公司在管理、发版app时，才会体会到ionic-pro的好处<br>
 8.	下载Ionic DevApp软件，并用ionic-pro账户登陆app<br>
 https://ionicframework.com/docs/pro/devapp/#download-the-devapp<br>
-9.	启动PC端：ionic serve<br>
+9.	启动PC端：ionic serve --port 5456；如果不加port，则默认使用8100端口<br>
 10.	打开Ionic DevApp可以同步看到在PC端的更改，ionic默认使用8100端口，如果同时启动多个ionic项目，ionic会自动修改端口，而且在Ionic DevApp里也都能看到
 ### 结合gitLab，上传新项目
 本地和gitlab上都新创建ionic项目后，根据git的操作方法，执行代码管理即可<br>
