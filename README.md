@@ -10,7 +10,7 @@
 7.	创建ionic-angular项目：ionic start myApp --type=angular<br>
 ### 安装 ionic-pro的
 ionic-pro其实很好，但不花钱买服务的话（$30/月），就别安装了<br>
-如果在创建项目时，选择了安装ionic-pro，当cli运行时，会提示连接哪个代码管理账户（gitHub、ionic-pro）<br>
+如果在创建项目时，选择了安装ionic-pro(现在好像变成了名字叫 appFlow)，当cli运行时，会提示连接哪个代码管理账户（gitHub、ionic-pro）<br>
 选择ionic-pro连接的是已创建好的ionic-pro项目，会出现选择在ionic-pro网站新建项目还是连接在ionic-pro网站上已有的项目，但这个不花钱买服务，就没啥用，推荐个人使用github<br>
 选择github连接的是github项目，然后会显示出github项目列表，选择刚创建的项目<br>
 ### 不安装 ionic-pro的
